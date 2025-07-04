@@ -18,5 +18,3 @@ How To Use?
 7. Play the game.
 8. After exiting the game, there's an opportunity to play more games.
 9. When you want to leave the system, you may close the game window, click logout and then close the GUI.
- 
-TODO: add that in the protocol the pipe symbol '|' can't appear on a msg.
